@@ -1,5 +1,5 @@
 import React from "react";
-import "./.../styles/EmployeeTable.css";
+import "./../styles/EmployeeTable.css";
 
 const EmployeeTable=({employees, deleteEmployee})=> {
     return(
